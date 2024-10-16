@@ -1,0 +1,11 @@
+{
+    "version" : 1.21,
+    "default_preset" : "home",
+    "whitelisted_plugins" : [],
+    "do_detect_device" : true,
+    "device_ips" : ["172.16.1.113"],
+    "allow_third_party_scripting" : false,
+    "frame_rate" : 0,
+    "output_resolution" : [0,0],
+    "assume_home_at_startup" : false
+}
